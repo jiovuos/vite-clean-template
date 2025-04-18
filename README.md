@@ -1,5 +1,7 @@
 # Vite clean template
 
+## Quick guide:
+
 ### Setup
 1. Settings > Actions > General: section «Workflow permissions» choose «Read and write permissions» and tick the checkbox.
 2. Open project in IDE, and write this in terminal to start wordking:
