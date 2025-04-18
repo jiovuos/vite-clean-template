@@ -8,7 +8,7 @@
    - npm install
    - npm run dev
 #### Deploy
-1. Change <REPO> in this line:
-   "build": "vite build --base=/<REPO>/",
+1. Change <vite-clean-template> in this line:
+   "build": "vite build --base=/<vite-clean-template>/",
    for your repository name.
 2. Settings > Pages: in branch choose "gh-pages"
